@@ -1,2 +1,3 @@
+![canvas](https://user-images.githubusercontent.com/62395719/167260970-aea5e88f-91f1-4673-a1ca-dc318d2c7ea4.png)
+
 # Zetmy - умный планировщик задач, оптимизирующий твоё время
-![no_border](https://user-images.githubusercontent.com/62395719/167260903-cba9665e-1e4f-4f05-beaf-ca4dd5bab764.png)
